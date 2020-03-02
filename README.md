@@ -80,3 +80,22 @@
          <td>BIOCHEMISTRY</td>
          <td></td>
     </tr>
+      <tr>
+        <td></td>
+         <td>14:00</td>
+         <td>lunch</td>
+         <td>lunch</td>
+         <td>lunch</td>
+         <td>lunch</td>
+         <td>lunch</td>
+         <td></td> 
+    </tr> 
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>  
