@@ -70,14 +70,13 @@
         <td>MATHEMATICS</td>
         <td></td>
     </tr
-  <tr>
+ <tr>
         <td></td>
-        <td>12:00</td>
-        <td>GEOLOGY</td>
-        <td>LAW</td>
-        <td>SOCIAL WORK</td>
-        <td>FREE</td>
-        <td>MATHEMATICS</td>
-        <td></td>
+         <td>13:00</td>
+         <td>MECHANICS</td>
+         <td>BUIDING</td>
+         <td>Nonsence</td>
+         <td>basic art</td>
+         <td>BIOCHEMISTRY</td>
+         <td></td>
     </tr>
-   
