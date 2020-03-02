@@ -60,4 +60,14 @@
         <td>break</td>
         <td></td>
     </tr>
+     <tr>
+        <td></td>
+        <td>12:00</td>
+        <td>GEOLOGY</td>
+        <td>LAW</td>
+        <td>SOCIAL WORK</td>
+        <td>FREE</td>
+        <td>MATHEMATICS</td>
+        <td></td>
+    </tr>
    
