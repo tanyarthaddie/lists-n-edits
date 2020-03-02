@@ -50,4 +50,14 @@
       <td>Chem files</td>
       <td></td>
     </tr>
+     <tr>
+        <td></td>
+        <td>10:00</td>
+        <td>break</td>
+        <td>break</td>
+        <td>break</td>
+        <td>break</td>
+        <td>break</td>
+        <td></td>
+    </tr>
    
