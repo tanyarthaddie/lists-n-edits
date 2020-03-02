@@ -22,4 +22,21 @@
         <th>Friday</th>
         <th>to do list 2</th>
        </tr>
+   <td><ul>
+            <li>read a novel</li>
+            <li>go for a hike</li>
+            <li>take a nap</li>
+        </ul></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td><ul>
+            <li>play my fifa career</li>
+            <li>Go kumusha and agrigate</li>
+            <li>go on a date</li>
+        </ul></td></td>
+    </tr>    
    
