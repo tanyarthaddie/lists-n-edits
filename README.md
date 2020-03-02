@@ -12,4 +12,14 @@
 <body>
 
 <table style="width: auto;">
+  <tr>
+        <th>to do list</th>
+        <th>Duration</th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+        <th>to do list 2</th>
+       </tr>
    
