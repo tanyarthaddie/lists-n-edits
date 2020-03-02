@@ -38,5 +38,16 @@
             <li>Go kumusha and agrigate</li>
             <li>go on a date</li>
         </ul></td></td>
-    </tr>    
+    </tr>  
+     <tr>
+        <tr></tr>   
+        <td></td>
+        <td>6:00</td>
+        <td>MECHANICS</td>
+        <td>Physics</td>
+        <td>art</td>
+      <td>PROGAMING</td>
+      <td>Chem files</td>
+      <td></td>
+    </tr>
    
