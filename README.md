@@ -1,4 +1,3 @@
-# lists-n-edits
 <!DOCTYPE html>
 <html>
 
@@ -7,12 +6,22 @@
  table, th, td {
    border: 1px solid;
    border-collapse: collapse; 
- }  
+ }
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}  
+
+tr :hover {background-color :palevioletred ;}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
 </style> 
 <body>
 
 <table style="width: auto;">
-  <tr>
+    <tr>
         <th>to do list</th>
         <th>Duration</th>
         <th>Monday</th>
@@ -21,8 +30,9 @@
         <th>Thursday</th>
         <th>Friday</th>
         <th>to do list 2</th>
-       </tr>
-   <td><ul>
+    </tr>
+    <tr>
+        <td><ul>
             <li>read a novel</li>
             <li>go for a hike</li>
             <li>take a nap</li>
@@ -38,8 +48,8 @@
             <li>Go kumusha and agrigate</li>
             <li>go on a date</li>
         </ul></td></td>
-    </tr>  
-     <tr>
+    </tr>    
+    <tr>
         <tr></tr>   
         <td></td>
         <td>6:00</td>
@@ -50,7 +60,7 @@
       <td>Chem files</td>
       <td></td>
     </tr>
-     <tr>
+    <tr>
         <td></td>
         <td>10:00</td>
         <td>break</td>
@@ -60,7 +70,7 @@
         <td>break</td>
         <td></td>
     </tr>
-     <tr>
+    <tr>
         <td></td>
         <td>12:00</td>
         <td>GEOLOGY</td>
@@ -69,8 +79,8 @@
         <td>FREE</td>
         <td>MATHEMATICS</td>
         <td></td>
-    </tr
- <tr>
+    </tr>
+    <tr>
         <td></td>
          <td>13:00</td>
          <td>MECHANICS</td>
@@ -80,7 +90,7 @@
          <td>BIOCHEMISTRY</td>
          <td></td>
     </tr>
-      <tr>
+    <tr>
         <td></td>
          <td>14:00</td>
          <td>lunch</td>
@@ -98,10 +108,10 @@
         <td></td>
         <td></td>
         <td></td>
-    </tr> 
+    </tr>  
    
 
 </table>
 
 </body>
-</html> 
+</html>
